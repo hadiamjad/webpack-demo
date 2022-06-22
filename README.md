@@ -14,3 +14,8 @@
 
 
 Now simply replace the `index.html` script tag with appropriate.
+
+
+#### Links
+https://unpkg.com/lodash@4.17.20
+https://webpack.js.org/guides/getting-started/
